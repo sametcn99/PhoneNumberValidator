@@ -157,7 +157,7 @@ namespace TextboxForPhoneNumbers
         {
             if (getDataFromCountryCodes() != "")
             {
-                Clipboard.SetText(getDataFromCountryCodes());
+                Clipboard.SetText(dataText);
                 MessageBox.Show("COPIED!");
             }
             else
