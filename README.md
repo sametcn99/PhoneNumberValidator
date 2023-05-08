@@ -1,4 +1,4 @@
-# TextboxForPhoneNumbers
+# PhoneNumberValidator
 an app to Validate Phone Number with Country Code
 ![](https://github.com/sametcn99/TextboxForPhoneNumbers/blob/master/TextboxForPhoneNumbers/Resources/sample.gif)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
